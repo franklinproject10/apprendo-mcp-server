@@ -1,0 +1,85 @@
+{
+    "books": [
+      {
+        "book_id": "atomic-habits-001",
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "category": "Self Help",
+        "subtitle": "An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+        "summary": "Atomic Habits reveals a systematic approach to building good habits and breaking bad ones. James Clear shows how tiny changes can lead to remarkable results through the compound effect of small improvements. The book introduces the Four Laws of Behavior Change: make it obvious, make it attractive, make it easy, and make it satisfying. Clear emphasizes that you don't rise to the level of your goals, you fall to the level of your systems.",
+        "length": "5 Hours and 35 Minutes",
+        "release_date": "10-16-18",
+        "tier": "free",
+        "has_summary": true,
+        "has_chapter_summaries": true,
+        "has_table_of_contents": true,
+        "table_of_contents": {
+          "Introduction": "The power of atomic habits and why small changes make a big difference",
+          "Chapter 1": "The Surprising Power of Atomic Habits - How small changes compound into remarkable results",
+          "Chapter 2": "How Your Habits Shape Your Identity - The relationship between habits and self-image",
+          "Chapter 3": "How to Build Better Habits in 4 Simple Steps - The habit loop and the Four Laws of Behavior Change",
+          "Chapter 4": "The Man Who Didn't Look Right - Making habits obvious through environment design"
+        },
+        "chapter_summaries": {
+          "1": "Small habits don't add up, they compound. A 1% improvement daily leads to 37x better results over a year. The difference between successful and unsuccessful people is often small habits performed consistently. Focus on systems, not goals.",
+          "2": "Every action is a vote for the type of person you wish to become. Identity-based habits are more powerful than outcome-based habits. Change who you are, not what you want. Ask 'What would a healthy person do?' rather than 'How do I lose weight?'",
+          "3": "All habits follow a four-step pattern: cue, craving, response, reward. The Four Laws of Behavior Change provide a framework: make it obvious (cue), make it attractive (craving), make it easy (response), and make it satisfying (reward).",
+          "4": "Environment design is crucial for habit formation. Make good habit cues visible and bad habit cues invisible. Your physical environment can trigger automatic behaviors without conscious thought."
+        }
+      },
+      {
+        "book_id": "think-again-002", 
+        "title": "Think Again",
+        "author": "Adam Grant",
+        "category": "Business",
+        "subtitle": "The Power of Knowing What You Don't Know",
+        "summary": "Think Again explores the critical skill of rethinking - questioning your opinions and opening other people's minds. Adam Grant argues that in a rapidly changing world, the ability to reconsider and unlearn is more valuable than intelligence. The book introduces thinking modes: preacher, prosecutor, politician, and scientist, advocating for the scientist mindset that embraces doubt and curiosity.",
+        "length": "8 Hours and 20 Minutes", 
+        "release_date": "02-02-21",
+        "tier": "free",
+        "has_summary": true,
+        "has_chapter_summaries": true,
+        "has_table_of_contents": true,
+        "table_of_contents": {
+          "Introduction": "The importance of rethinking in a changing world",
+          "Chapter 1": "A Preacher, a Prosecutor, a Politician, and a Scientist Walk into Your Mind",
+          "Chapter 2": "The Armchair Quarterback and the Impostor - Finding the sweet spot of confidence", 
+          "Chapter 3": "The Joy of Being Wrong - The thrill of not believing everything you think",
+          "Chapter 4": "The Good Fight Club - The psychology of constructive conflict"
+        },
+        "chapter_summaries": {
+          "1": "We tend to think like preachers (protecting sacred beliefs), prosecutors (proving others wrong), or politicians (seeking approval). The scientist mindset - forming hypotheses and testing them - is most effective for learning and growth.",
+          "2": "Confidence is important, but overconfidence is dangerous. The Dunning-Kruger effect shows that ignorance breeds overconfidence. Embrace intellectual humility and the discomfort of uncertainty.",
+          "3": "Being wrong doesn't have to be disappointing - it can be delightful when it leads to learning. Develop the ability to detach your opinions from your identity and view changing your mind as a sign of growth.",
+          "4": "Constructive conflict and debate can sharpen thinking when done properly. Focus on ideas, not personalities. Ask questions that promote curiosity rather than defensiveness."
+        }
+      },
+      {
+        "book_id": "never-split-003",
+        "title": "Never Split the Difference", 
+        "author": "Chris Voss",
+        "category": "Business",
+        "subtitle": "Negotiating as if Your Life Depended on It",
+        "summary": "Former FBI hostage negotiator Chris Voss reveals negotiation tactics developed in life-or-death situations. The book challenges traditional negotiation wisdom, advocating for emotional intelligence over rational logic. Key techniques include tactical empathy, mirroring, labeling emotions, and the 'no-oriented' question approach to create better outcomes in any negotiation.",
+        "length": "8 Hours and 7 Minutes",
+        "release_date": "05-17-16", 
+        "tier": "free",
+        "has_summary": true,
+        "has_chapter_summaries": true,
+        "has_table_of_contents": true,
+        "table_of_contents": {
+          "Introduction": "Life-or-death lessons from FBI hostage negotiation",
+          "Chapter 1": "The New Rules - Why old-school negotiation fails",
+          "Chapter 2": "Be a Mirror - How to quickly establish rapport", 
+          "Chapter 3": "Don't Feel Their Pain, Label It - Tactical empathy in action",
+          "Chapter 4": "Beware 'Yes' - Master the Art of 'No'"
+        },
+        "chapter_summaries": {
+          "1": "Traditional negotiation assumes people are rational actors, but emotions drive decisions. Effective negotiation requires understanding and influencing emotions, not just presenting logical arguments.",
+          "2": "Mirroring - repeating the last few words of what someone said - is a simple but powerful technique. It makes people feel heard and encourages them to reveal more information.",
+          "3": "Tactical empathy means understanding feelings without agreeing with them. Label negative emotions to defuse them ('It seems like you're frustrated by this situation'). This demonstrates understanding and builds trust.",
+          "4": "'Yes' is often meaningless - people say it to end conversations. 'No' is the beginning of negotiation. Ask 'no-oriented' questions ('Is it ridiculous to suggest...?') to make people feel safe and in control."
+        }
+      }
+    ]
+  }

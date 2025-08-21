@@ -1,0 +1,47 @@
+{
+    "name": "apprendo-mcp-server",
+    "displayName": "Apprendo Book Summaries", 
+    "description": "AI-powered book library with summaries and chapter breakdowns for popular business, self-help, and productivity books",
+    "version": "1.0.0",
+    "author": "ComputaGenius",
+    "homepage": "https://github.com/yourusername/apprendo-mcp-server",
+    "repository": "https://github.com/yourusername/apprendo-mcp-server",
+    "license": "MIT",
+    "keywords": ["books", "summaries", "productivity", "self-help", "business"],
+    "categories": ["Education", "Productivity", "Content"],
+    "transport": "stdio",
+    "runtime": "node",
+    "entrypoint": "dist/server.js",
+    "configSchema": {
+      "type": "object",
+      "properties": {
+        "apiKey": {
+          "type": "string",
+          "description": "Optional API key for advanced features",
+          "default": ""
+        }
+      }
+    },
+    "tools": [
+      {
+        "name": "list_books",
+        "description": "List all available books with their basic information"
+      },
+      {
+        "name": "get_book_summary", 
+        "description": "Get the main summary for a specific book"
+      },
+      {
+        "name": "get_book_details",
+        "description": "Get detailed information about a specific book"
+      },
+      {
+        "name": "get_table_of_contents",
+        "description": "Get the table of contents for a book with chapter descriptions"
+      },
+      {
+        "name": "get_chapter_summary",
+        "description": "Get the summary for a specific chapter of a book"
+      }
+    ]
+  }

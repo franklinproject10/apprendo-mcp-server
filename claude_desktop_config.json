@@ -1,0 +1,11 @@
+{
+    "mcpServers": {
+      "apprendo": {
+        "command": "node",
+        "args": [
+          "C:\\Users\\frank\\Documents\\apprendo\\dist\\server.js"
+        ],
+        "env": {}
+      }
+    }
+  }
